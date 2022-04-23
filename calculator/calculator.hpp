@@ -3,6 +3,7 @@
 
 #include <iostream>
 #include <cmath>
+#include <stdlib.h>
 #define MAX_DIGITS 8
 
 

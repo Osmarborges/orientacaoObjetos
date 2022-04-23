@@ -1,3 +1,3 @@
 all:
-	g++ -g *.cpp -o main 
+	g++ -g *.cpp -o main -std=c++0x
 	./main
